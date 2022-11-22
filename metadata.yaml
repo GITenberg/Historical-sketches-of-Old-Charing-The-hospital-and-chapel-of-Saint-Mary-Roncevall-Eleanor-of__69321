@@ -1,5 +1,8 @@
 _repo: Historical-sketches-of-Old-Charing-The-hospital-and-chapel-of-Saint-Mary-Roncevall-Eleanor-of__69321
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69321-h/images/cover.jpg
 creator:
   author:
     agent_name: Galloway, James, Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55139
     wikipedia: https://en.wikipedia.org/wiki/James_Galloway_(physician)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69321#Historical-sketches-of-Old-Charing-The-hospital-and-chapel-of-Saint-Mary-Roncevall-Eleanor-of_
 gutenberg_issued: '2022-11-09'
 identifiers:
   gutenberg: '69321'
